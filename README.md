@@ -6,6 +6,7 @@
 + Grado superior en Desarrollo de Aplicaciones Web ⏳
 #### 💻 Intereses:
 + JavaScript
++ Node.js
 + React
 + Angular
 ------
