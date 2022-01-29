@@ -13,7 +13,6 @@
 
 <p align="center">
   Puedes contactarme en www.linkedin.com/in/dariomarinr 📩
-  <img src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif" />
 </p>
 
 
