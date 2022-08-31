@@ -1,14 +1,11 @@
 # Hola! 👋
-### Actualmente estoy estudiando Desarrollo de Aplicaciones Web en el CPIFP Pirámide
 #### 🎓 Formación:
 + Bachillerato de Humanidades y Ciencias sociales
 + Grado superior en Desarrollo de Aplicaciones Multiplataforma
-+ Grado superior en Desarrollo de Aplicaciones Web ⏳
++ Grado superior en Desarrollo de Aplicaciones Web - CPIFP Pirámide
 #### 💻 Intereses:
-+ JavaScript
 + Node.js
 + React
-+ Angular
 ------
 
 <p align="center">
